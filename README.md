@@ -1,4 +1,4 @@
-# Cloud-Based File Storage System (Azure Blob Storage)
+# CloudVault
 
 ## Project Description
 This project is a cloud-based file storage system that allows users to upload, download, delete, and manage files using Azure Blob Storage. The application provides user authentication via JWT and enables secure file sharing through temporary URLs. It also manages file metadata in a PostgreSQL database using Spring Data JPA.
